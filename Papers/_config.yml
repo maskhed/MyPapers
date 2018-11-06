@@ -1,0 +1,15 @@
+title: "Feei"
+title_separator: "-"
+author: "Feei"
+email: "feei@feei.cn"
+name: "Feei"
+description: "分享安全会议、Web安全、主机安全、移动端安全、人机识别、企业安全、业务风控、物理安全、漏洞渗透实战、技术等一些个人经验。"
+baseurl: ""
+url: "https://feei.cn"
+google_site_verification: "A4m6b-NLyB75c_6tqPnJHt0xPMRu0eGO7lZ2CoR4ttE"
+github_username: feeicn
+theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+permalink: /404.html
