@@ -5,6 +5,7 @@
 ### 1）论文
 - [《(State of) The Art of War: Offensive Techniques in Binary Analysis》](https://github.com/maskhed/MyPapers/blob/master/2016_SP_angrSoK.pdf)
 - [《AEG: Automatic Exploit Generation》](https://github.com/maskhed/MyPapers/blob/master/AEG_Automatic_Exploit_Generation.pdf)
+- - [《CRAX: Software Crash Analysis for Automatic Exploit Generation by Modeling Attacks as Symbolic Continuations》]()
 - [《Driller: Augmenting Fuzzing Through Selective Symbolic Execution》](https://github.com/maskhed/MyPapers/blob/master/2016_NDSS_Driller.pdf)
 - [《软件与网络安全研究综述》](https://github.com/maskhed/MyPapers/blob/master/软件与网络安全研究综述.pdf)
 
