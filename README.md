@@ -9,6 +9,7 @@
 - [《软件与网络安全研究综述》](https://github.com/maskhed/MyPapers/blob/master/软件与网络安全研究综述.pdf)
 - [《Automatic Generation of Control Flow Hijacking Exploits for Software Vulnerabilities》](https://github.com/maskhed/MyPapers/blob/master/558401.pdf)
 - [《Automatic Polymorphic Exploit Generation for Software Vulnerabilities》](https://github.com/maskhed/MyPapers/blob/master/978-3-319-04283-1_14.pdf)
+- [《Data-Oriented programming: On the expresivenes of non-control data attacks》](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7546545)  
 - [《Automatic Generation of Data-Oriented Exploits》](https://github.com/maskhed/MyPapers/blob/master/sec15-paper-hu.pdf)
 - [《Driller: Augmenting Fuzzing Through Selective Symbolic Execution》](https://github.com/maskhed/MyPapers/blob/master/2016_NDSS_Driller.pdf)
 
