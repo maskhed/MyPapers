@@ -15,6 +15,7 @@
 
 ### 2）资料
 - [《Fuzzing技术总结与工具列表》](mweblib://15391373116086)
+- [《Shining Light onShadow Stacks》新影子栈设计](https://github.com/maskhed/MyPapers/blob/master/Shining%20Light%20on%20Shadow%20Stacks.pdf)
 
 ## 已阅
 - [《Survey of Automated Vulnerability Detection and Exploit Generation Techniques in Cyber Reasoning Systems》](https://github.com/maskhed/MyPapers/blob/master/Survey%20of%20Automated%20Vulnerability%20Detection%20and%20Exploit%20Generation%20Techniques%20in%20Cyber%20Reasoning%20Systems.pdf)
