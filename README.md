@@ -50,13 +50,6 @@
 - [《A systematic review of fuzzing techniques》](https://github.com/maskhed/Papers/blob/master/A_systematic_review_of_fuzzing_techniques.pdf)
 - [《人工智能技术在安全漏洞领域的应用》](https://github.com/maskhed/Papers/blob/master/人工智能技术在安全漏洞领域的应用.pdf)
 
-# Micropoor
-![](https://github.com/maskhed/Papers/blob/master/Micropoor/Micropoor.png)  
-
-![](https://github.com/maskhed/Papers/blob/master/Micropoor/1-50.png)  
-
-![](https://github.com/maskhed/Papers/blob/master/Micropoor/51-90.png)  
-
 
 
 
