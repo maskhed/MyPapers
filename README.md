@@ -3,8 +3,8 @@
 
 ## 待阅
 ### 1）论文
-* [x] [《Revery: From Proof-of-Concept to Exploitable》](https://github.com/maskhed/Papers/blob/master/Revery.pdf)
-- [《Automatic Generation of Control Flow Hijacking Exploits for Software Vulnerabilities》](https://github.com/maskhed/Papers/blob/master/AXGEN.pdf)
+* [x] - [《Revery: From Proof-of-Concept to Exploitable》](https://github.com/maskhed/Papers/blob/master/Revery.pdf)
+* [ ] - [《Automatic Generation of Control Flow Hijacking Exploits for Software Vulnerabilities》](https://github.com/maskhed/Papers/blob/master/AXGEN.pdf)
 - [《Data-Oriented programming: On the expresivenes of non-control data attacks》](https://github.com/maskhed/Papers/blob/master/Data-Oriented%20Programming-%20On%20the%20Expressiveness%20of%20Non-Control%20Data%20Attacks.pdf)  
 - [《Automatic Generation of Data-Oriented Exploits》](https://github.com/maskhed/Papers/blob/master/Automatic_Generation_of_Data-Oriented_Exploits.pdf)
 - [《Automatic Heap Layout Manipulation for Exploitation》](https://github.com/maskhed/Papers/blob/master/Automatic%20Heap%20Layout%20Manipulation%20for%20Exploitation.pdf)
