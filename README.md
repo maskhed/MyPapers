@@ -17,13 +17,13 @@
 * [ ] - [《Automatic Generation of Data-Oriented Exploits》](https://github.com/maskhed/Papers/blob/master/Automatic_Generation_of_Data-Oriented_Exploits.pdf)
 
 ### 2）资料
-* [x] - [(PPT)《Binary 自動分析的那些事》](https://github.com/maskhed/Papers/blob/master/(PPT)YSc.pdf)
-* [x] - [(PPT)《Automatic Exploit Generation》](https://github.com/maskhed/Papers/blob/master/(PPT)CSW2016_DAntoine_AutomaticExploitGeneration.pdf)
-* [x] - [(PPT)《The Automated Exploitation Grand Challenge》](https://github.com/maskhed/Papers/blob/master/(PPT)The_Automated_Exploitation_Grand_Challenge.pdf)
-* [x] - [(PPT)《An Introduction to Dynamic Symbolic Execution and the KLEE Infrastructure》](https://github.com/maskhed/Papers/blob/master/(PPT)Symbolic%26KLEE.pdf)
-* [x] - [(PPT)《An Introduction To Binary Exploitation》](https://github.com/maskhed/Papers/blob/master/(PPT)BlackHoodie2018CTF.pdf)
-* [x] - [(PPT)《The Automated Exploitation Grand Challenge A Five-Year Retrospective》](https://github.com/maskhed/Papers/blob/master/(PPT)aegc_retro_2018_jvanegue.pdf)
-* [x] - [(PPT)《automatic binary exploitation and patching using mechanical shellphish.pdf》](https://github.com/maskhed/Papers/blob/master/(PPT)automatic%20binary%20exploitation%20and%20patching%20using%20mechanical%20shellphish.pdf)
+* [x] - [PPT_《Binary 自動分析的那些事》](https://github.com/maskhed/Papers/blob/master/PPT_YSc.pdf)
+* [x] - [PPT_《Automatic Exploit Generation》](https://github.com/maskhed/Papers/blob/master/PPT_CSW2016_DAntoine_AutomaticExploitGeneration.pdf)
+* [x] - [PPT_《The Automated Exploitation Grand Challenge》](https://github.com/maskhed/Papers/blob/master/PPT_The_Automated_Exploitation_Grand_Challenge.pdf)
+* [x] - [PPT_《An Introduction to Dynamic Symbolic Execution and the KLEE Infrastructure》](https://github.com/maskhed/Papers/blob/master/PPT_Symbolic%26KLEE.pdf)
+* [x] - [PPT_《An Introduction To Binary Exploitation》](https://github.com/maskhed/Papers/blob/master/PPT_BlackHoodie2018CTF.pdf)
+* [x] - [PPT_《The Automated Exploitation Grand Challenge A Five-Year Retrospective》](https://github.com/maskhed/Papers/blob/master/PPT_aegc_retro_2018_jvanegue.pdf)
+* [x] - [PPT_《automatic binary exploitation and patching using mechanical shellphish.pdf》](https://github.com/maskhed/Papers/blob/master/PPT_automatic%20binary%20exploitation%20and%20patching%20using%20mechanical%20shellphish.pdf)
 * [ ] - [《The Mayhem CRS》](https://github.com/maskhed/Papers/blob/master/The%20Mayhem%20CRS.pdf)
 
 ## Crash Analysis
@@ -43,9 +43,9 @@
 
 
 ### 2）资料
-* [ ] - [ (PPT)《Intro to Binary Analysis with Z3 and Angr》](https://github.com/maskhed/Papers/blob/master/(PPT)2018-z3-angr.pdf)
-* [ ] - [(PPT)《symbolic execution》](https://github.com/maskhed/Papers/blob/master/(PPT)symbolic-execution.pdf)
-* [ ] - [(PPT)《Understanding Symbolic Execution》](https://github.com/maskhed/Papers/blob/master/(PPT)SymbolicExecution.pptx)
+* [ ] - [ PPT_《Intro to Binary Analysis with Z3 and Angr》](https://github.com/maskhed/Papers/blob/master/PPT_2018-z3-angr.pdf)
+* [ ] - [PPT_《symbolic execution》](https://github.com/maskhed/Papers/blob/master/PPT_symbolic-execution.pdf)
+* [ ] - [PPT_《Understanding Symbolic Execution》](https://github.com/maskhed/Papers/blob/master/PPT_SymbolicExecution.pptx)
 
 
 ## Fuzzing
