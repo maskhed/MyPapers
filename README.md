@@ -1,4 +1,4 @@
 # Papers
-整理所学 Paper，暂且分类如下：  
+Repo 内的资料以二进制分析为主，暂且分类如下：  
 ![](paper-tree.png) 
 
